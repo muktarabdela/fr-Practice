@@ -1,0 +1,37 @@
+.feature_wrapper {
+    background: #fff;
+}
+
+.feature_items {
+    display: flex;
+    align-items: center;
+    max-width: 70em;
+    margin: auto;
+}
+
+.feature_items_div {
+    display: flex;
+    margin: 8em 0;
+    margin-left: 6em;
+}
+
+.feature_items_div img {
+    width: 6em;
+    height: 6em;
+    margin-right: 1em;
+}
+
+.feature_items_header {
+    font-size: 1.7em;
+}
+
+.feature_items_p {
+    margin: 1em 0;
+    font-size: 1.4em;
+}
+
+.feature_items_btn {
+    font-size: 1.2em;
+    margin-top: 0.6em;
+    color: #4C5FD5;
+}
